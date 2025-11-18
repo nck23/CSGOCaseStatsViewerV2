@@ -200,7 +200,6 @@ CS20 Sticker Capsule;Capsule
 Halo Capsule;Capsule
 Half-Life: Alyx Sticker Capsule;Capsule
 Warhammer 40,000 Sticker Capsule;Capsule
-Recoil Sticker Collection;Capsule
 2020 RMR Legends;Capsule
 2020 RMR Contenders;Capsule
 2020 RMR Challengers;Capsule
@@ -455,9 +454,6 @@ StatTrak™ Deluge Music Kit Box;Music Kit Box
 CS:GO Graffiti Box;Graffiti Box
 Community Graffiti Box 1;Graffiti Box
 Perfect World Graffiti Box;Graffiti Box
-Trolling Graffiti Collection;Graffiti Box
-CS:GO Graffiti #2 Collection;Graffiti Box
-CS:GO Graffiti #3 Collection;Graffiti Box
 Collectible Pins Capsule Series 1;Pins Capsule
 Collectible Pins Capsule Series 2;Pins Capsule
 Collectible Pins Capsule Series 3;Pins Capsule
